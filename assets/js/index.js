@@ -43,12 +43,12 @@ function scrollActive() {
 }
 
 // # WORKS #
-function music_player__() {
-    window.open('https://github.com/pauloodev/PySimpleGUI-Music-Player')
+function phishing_facebook__() {
+    window.open('https://github.com/pauloodev/phishing-facebook')
 }
-function pagebot__() {
-    // window.open('https://google.com')
-    alert('Já comeu algum cachorro quente gelado? Pois é, algo deu errado aqui.')
+function bot_api_status_discord__() {
+    window.open('https://github.com/pauloodev/bot-api-status-discord')
+    // alert('Já comeu algum cachorro quente gelado? Pois é, algo deu errado aqui.')
 }
 
 // # BUTTON FORM #
